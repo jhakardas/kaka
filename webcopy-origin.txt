@@ -1,0 +1,84 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\ajax\libs\twitter-bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.4.4.min.js
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\jquery-1.4.4.min.js
+Content Type: application/javascript
+
+Uri: https://hgyt12.z21.web.core.windows.net/
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\index.htm
+Content Type: text/html
+
+Uri: https://hgyt12.z21.web.core.windows.net/bel.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\bel.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/cs.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\cs.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/dm.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\dm.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/f24.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\f24.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/jupiter.js
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\jupiter.js
+Content Type: text/javascript
+
+Uri: https://hgyt12.z21.web.core.windows.net/mnc.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\mnc.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/msmm.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\msmm.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/noir.js
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\noir.js
+Content Type: text/javascript
+
+Uri: https://hgyt12.z21.web.core.windows.net/nvidia.js
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\nvidia.js
+Content Type: text/javascript
+
+Uri: https://hgyt12.z21.web.core.windows.net/pcm.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\pcm.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/re.gif
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\re.gif
+Content Type: image/gif
+
+Uri: https://hgyt12.z21.web.core.windows.net/script.compat.js
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\script.compat.js
+Content Type: text/javascript
+
+Uri: https://hgyt12.z21.web.core.windows.net/set.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\set.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/tapa.css
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\tapa.css
+Content Type: text/css
+
+Uri: https://hgyt12.z21.web.core.windows.net/vsc.png
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\vsc.png
+Content Type: image/png
+
+Uri: https://hgyt12.z21.web.core.windows.net/_Fm7-alert.mp3
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\_Fm7-alert.mp3
+Content Type: audio/mpeg
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\bootstrap\3.4.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-164919641-1
+File Name: C:\Downloaded Web Sites\hgyt12.z21.web.core.windows.net\gtag\js
+Content Type: application/javascript
+
